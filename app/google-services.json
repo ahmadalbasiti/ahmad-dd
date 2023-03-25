@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "932903438108",
+    "project_id": "pdf-f4344",
+    "storage_bucket": "pdf-f4344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932903438108:android:9bd946e9c2157c16cb9cd9",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932903438108-vq8a7f7lhloi9co0p00eaqa4p4tn7988.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA58lMOABssarSY6Xb1c1Mwx6F1aVSwQms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932903438108-vq8a7f7lhloi9co0p00eaqa4p4tn7988.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
